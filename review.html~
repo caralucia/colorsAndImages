@@ -17,15 +17,11 @@
   width: 20%;
   margin: .1em;
   color: white;
-  display: inline-block;
 }
 
 #exercise2 a:hover {
-  background-color: #B3C67F;
-  color: #9ED7FF;
+
 }
-
-
 </style>
 </head>
 <body>
